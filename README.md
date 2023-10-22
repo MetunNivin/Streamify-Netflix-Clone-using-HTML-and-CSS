@@ -29,4 +29,4 @@ PS: Please do not forget to drop a star if you like it!
 ![image](https://github.com/Geethanjali5/Netflix-Clone-using-HTML-and-CSS-/blob/main/3.jpg)
 ![image](https://github.com/Geethanjali5/Netflix-Clone-using-HTML-and-CSS-/blob/main/4.png)
 ![image](https://github.com/Geethanjali5/Netflix-Clone-using-HTML-and-CSS-/blob/main/6.jpg)
-![video](https://github.com/Geethanjali5/Netflix-Clone-using-HTML-and-CSS-/blob/main/5.mp4)
+![demo](https://github.com/Geethanjali5/Netflix-Clone-using-HTML-and-CSS-/blob/main/5.mp4)
