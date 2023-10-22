@@ -20,11 +20,4 @@ Creating a Netflix clone using HTML and CSS is a popular project for web develop
 
 8)Interactivity:You can add interactivity using JavaScript if you want features like a hover effect on movie thumbnails.
 
-To get more detailed guidance and code examples, you can refer to various tutorials and GitHub repositories that provide step-by-step instructions and code for creating a Netflix clone using HTML and CSS:
-
-Netflix clone using HTML, CSS, and JS (YouTube Video)
-Netflix Clone GitHub Repository
-How to Build Responsive Netflix Clone using HTML and CSS (YouTube Video)
-Netflix clone with HTML and CSS (tutorial for beginners) (YouTube Video)
-Netflix Clone with HTML, CSS, JavaScript (CodeSandbox)
-These resources provide detailed tutorials, code, and demonstrations to help you create your own Netflix clone using HTML and CSS.
+PS: Please do not forget to drop a star if you like it!
