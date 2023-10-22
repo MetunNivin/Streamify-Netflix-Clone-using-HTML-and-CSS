@@ -22,7 +22,8 @@ Creating a Netflix clone using HTML and CSS is a popular project for web develop
 
 PS: Please do not forget to drop a star if you like it!
 
-![image][https://github.com/Geethanjali5/Netflix-Clone-using-HTML-and-CSS-/blob/main/1.jpg].
+
 ## 📸 Screenshots
 ![image](https://github.com/Geethanjali5/Netflix-Clone-using-HTML-and-CSS-/blob/main/1.jpg)
+![image](https://github.com/Geethanjali5/Netflix-Clone-using-HTML-and-CSS-/blob/main/2.jpg)
 
