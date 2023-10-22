@@ -21,3 +21,4 @@ Creating a Netflix clone using HTML and CSS is a popular project for web develop
 8)Interactivity:You can add interactivity using JavaScript if you want features like a hover effect on movie thumbnails.
 
 PS: Please do not forget to drop a star if you like it!
+![image][
