@@ -1,4 +1,4 @@
-# Netflix-clone
+# Sreamify | Netflix-clone
 
 Netflix is a popular subscription-based streaming service that offers a vast library of movies, TV shows, documentaries, and other forms of entertainment. 
 
