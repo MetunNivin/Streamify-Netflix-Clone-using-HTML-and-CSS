@@ -24,9 +24,9 @@ PS: Please do not forget to drop a star if you like it!
 
 
 ## 📸 Screenshots
-![image](https://github.com/Geethanjali5/Netflix-Clone-using-HTML-and-CSS-/blob/main/1.jpg)
-![image](https://github.com/Geethanjali5/Netflix-Clone-using-HTML-and-CSS-/blob/main/2.jpg)
-![image](https://github.com/Geethanjali5/Netflix-Clone-using-HTML-and-CSS-/blob/main/3.jpg)
-![image](https://github.com/Geethanjali5/Netflix-Clone-using-HTML-and-CSS-/blob/main/4.png)
-![image](https://github.com/Geethanjali5/Netflix-Clone-using-HTML-and-CSS-/blob/main/6.jpg)
+![image](https://github.com/Geethanjali5/Netflix-Clone-using-HTML-and-CSS-/blob/main/Result 1.jpg)
+![image](https://github.com/Geethanjali5/Netflix-Clone-using-HTML-and-CSS-/blob/main/result2.jpg)
+![image](https://github.com/Geethanjali5/Netflix-Clone-using-HTML-and-CSS-/blob/main/result3.jpg)
+![image](https://github.com/Geethanjali5/Netflix-Clone-using-HTML-and-CSS-/blob/main/result4.png)
+
 
