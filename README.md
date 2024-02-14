@@ -21,7 +21,7 @@ Creating a Netflix clone using HTML and CSS is a popular project for web develop
 8)Interactivity:You can add interactivity using JavaScript if you want features like a hover effect on movie thumbnails.
 
 PS: This is for Educational purposes only. Please do not forget to drop a star if you like it!
-
+Website : https://geethanjali2023.github.io/Streamify-Netflix-Clone-using-HTML-and-CSS/
 
 ## 📸 Screenshots
 ![image](https://github.com/Geethanjali2023/Streamify-Netflix-Clone-using-HTML-and-CSS/blob/main/Result%201.jpg)
